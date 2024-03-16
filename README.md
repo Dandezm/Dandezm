@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dandezm
+- 👋 Hi, I’m Daniel Mokoro aka  @Dandezm
 - 👀 I’m interested in web application development
 - 🌱 I’m currently learning php,python,Java ,java script and css
 - 💞️ I’m looking to collaborate on software development
